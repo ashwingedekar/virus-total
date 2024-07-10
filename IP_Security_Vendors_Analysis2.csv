@@ -1,0 +1,277 @@
+IP Address,Location,Status,Last Analysis Date,Detection Details,Community Score,IP Block,ASN
+146.70.38.77,"Miami, United States",Good,N/A,"Acronis: harmless
+0xSI_f33d: undetected
+Abusix: harmless
+ADMINUSLabs: harmless
+Criminal IP: undetected
+AILabs (MONITORAPP): undetected
+AlienVault: harmless
+alphaMountain.ai: harmless
+AlphaSOC: undetected
+Antiy-AVL: harmless
+ArcSight Threat Intelligence: undetected
+AutoShun: undetected
+benkow.cc: harmless
+Bfore.Ai PreCrime: harmless
+BitDefender: harmless
+Bkav: undetected
+Blueliv: harmless
+Certego: harmless
+Chong Lua Dao: harmless
+CINS Army: harmless
+Cluster25: undetected
+CRDF: harmless
+CSIS Security Group: undetected
+Snort IP sample list: harmless
+CMC Threat Intelligence: harmless
+Cyan: undetected
+Cyble: undetected
+CyRadar: harmless
+DNS8: harmless
+Dr.Web: harmless
+Ermes: undetected
+ESET: harmless
+ESTsecurity: undetected
+EmergingThreats: harmless
+Emsisoft: harmless
+Forcepoint ThreatSeeker: undetected
+Fortinet: harmless
+G-Data: harmless
+Google Safebrowsing: harmless
+GreenSnow: harmless
+Gridinsoft: undetected
+Heimdal Security: harmless
+Hunt.io Intelligence: undetected
+IPsum: harmless
+Juniper Networks: harmless
+Kaspersky: undetected
+Lionic: harmless
+Lumu: undetected
+MalwarePatrol: harmless
+MalwareURL: undetected
+Malwared: harmless
+Netcraft: harmless
+OpenPhish: harmless
+Phishing Database: harmless
+PhishFort: undetected
+PhishLabs: undetected
+Phishtank: harmless
+PREBYTES: harmless
+PrecisionSec: undetected
+Quick Heal: harmless
+Quttera: harmless
+SafeToOpen: undetected
+Sansec eComscan: undetected
+Scantitan: harmless
+SCUMWARE.org: harmless
+Seclookup: undetected
+SecureBrain: harmless
+Segasec: undetected
+SOCRadar: undetected
+Sophos: harmless
+Spam404: harmless
+StopForumSpam: harmless
+Sucuri SiteCheck: harmless
+ThreatHive: harmless
+Threatsourcing: harmless
+Trustwave: harmless
+Underworld: undetected
+URLhaus: harmless
+URLQuery: undetected
+Viettel Threat Intelligence: harmless
+VIPRE: undetected
+VX Vault: harmless
+ViriBack: harmless
+Webroot: harmless
+Yandex Safebrowsing: harmless
+ZeroCERT: harmless
+desenmascara.me: harmless
+malwares.com URL checker: harmless
+securolytics: harmless
+Xcitium Verdict Cloud: undetected
+zvelo: harmless
+ZeroFox: undetected",0,146.70.32.0/19,M247 Europe SRL
+203.55.81.13,"Nanterre, France",Malicious,1720172906,"Acronis: harmless
+0xSI_f33d: undetected
+Abusix: harmless
+ADMINUSLabs: harmless
+Criminal IP: harmless
+AILabs (MONITORAPP): harmless
+AlienVault: harmless
+alphaMountain.ai: suspicious
+AlphaSOC: undetected
+Antiy-AVL: malicious
+ArcSight Threat Intelligence: suspicious
+AutoShun: undetected
+benkow.cc: harmless
+Bfore.Ai PreCrime: undetected
+BitDefender: malicious
+Bkav: undetected
+Blueliv: harmless
+Certego: harmless
+Chong Lua Dao: harmless
+CINS Army: malicious
+Cluster25: malicious
+CRDF: malicious
+CSIS Security Group: undetected
+Snort IP sample list: harmless
+CMC Threat Intelligence: harmless
+Cyan: undetected
+Cyble: harmless
+CyRadar: malicious
+DNS8: harmless
+Dr.Web: harmless
+Ermes: undetected
+ESET: harmless
+ESTsecurity: harmless
+EmergingThreats: harmless
+Emsisoft: harmless
+Forcepoint ThreatSeeker: undetected
+Fortinet: malicious
+G-Data: malicious
+Google Safebrowsing: harmless
+GreenSnow: harmless
+Gridinsoft: undetected
+Heimdal Security: harmless
+Hunt.io Intelligence: undetected
+IPsum: harmless
+Juniper Networks: harmless
+Kaspersky: undetected
+Lionic: malicious
+Lumu: undetected
+MalwarePatrol: harmless
+MalwareURL: malicious
+Malwared: harmless
+Netcraft: undetected
+OpenPhish: harmless
+Phishing Database: harmless
+PhishFort: undetected
+PhishLabs: undetected
+Phishtank: harmless
+PREBYTES: harmless
+PrecisionSec: undetected
+Quick Heal: harmless
+Quttera: harmless
+SafeToOpen: undetected
+Sansec eComscan: undetected
+Scantitan: harmless
+SCUMWARE.org: harmless
+Seclookup: harmless
+SecureBrain: undetected
+Segasec: undetected
+SOCRadar: suspicious
+Sophos: harmless
+Spam404: harmless
+StopForumSpam: harmless
+Sucuri SiteCheck: harmless
+ThreatHive: harmless
+Threatsourcing: harmless
+Trustwave: harmless
+Underworld: undetected
+URLhaus: harmless
+URLQuery: undetected
+Viettel Threat Intelligence: harmless
+VIPRE: malicious
+VX Vault: harmless
+ViriBack: harmless
+Webroot: harmless
+Yandex Safebrowsing: harmless
+ZeroCERT: harmless
+desenmascara.me: harmless
+malwares.com URL checker: harmless
+securolytics: harmless
+Xcitium Verdict Cloud: undetected
+zvelo: undetected
+ZeroFox: undetected",-2,203.55.81.0/24,Skoali SAS
+84.247.102.15,"Seoul, South Korea",Malicious,1712621361,"Acronis: harmless
+0xSI_f33d: undetected
+Abusix: harmless
+ADMINUSLabs: harmless
+Criminal IP: harmless
+AILabs (MONITORAPP): harmless
+AlienVault: harmless
+alphaMountain.ai: harmless
+AlphaSOC: undetected
+Antiy-AVL: harmless
+ArcSight Threat Intelligence: undetected
+AutoShun: undetected
+benkow.cc: harmless
+Bfore.Ai PreCrime: harmless
+BitDefender: harmless
+Bkav: undetected
+Blueliv: harmless
+Certego: malicious
+Chong Lua Dao: harmless
+CINS Army: harmless
+Cluster25: malicious
+CRDF: harmless
+CSIS Security Group: undetected
+Snort IP sample list: harmless
+CMC Threat Intelligence: harmless
+Cyan: undetected
+Cyble: harmless
+CyRadar: harmless
+DNS8: harmless
+Dr.Web: harmless
+Ermes: undetected
+ESET: harmless
+ESTsecurity: harmless
+EmergingThreats: harmless
+Emsisoft: harmless
+Forcepoint ThreatSeeker: undetected
+Fortinet: harmless
+G-Data: harmless
+Google Safebrowsing: harmless
+GreenSnow: harmless
+Gridinsoft: undetected
+Heimdal Security: harmless
+Hunt.io Intelligence: undetected
+IPsum: harmless
+Juniper Networks: harmless
+Kaspersky: undetected
+Lionic: harmless
+Lumu: undetected
+MalwarePatrol: harmless
+MalwareURL: malicious
+Malwared: harmless
+Netcraft: undetected
+OpenPhish: harmless
+Phishing Database: harmless
+PhishFort: undetected
+PhishLabs: undetected
+Phishtank: harmless
+PREBYTES: harmless
+PrecisionSec: undetected
+Quick Heal: harmless
+Quttera: harmless
+SafeToOpen: undetected
+Sansec eComscan: undetected
+Scantitan: harmless
+SCUMWARE.org: harmless
+Seclookup: harmless
+SecureBrain: undetected
+Segasec: undetected
+SOCRadar: malicious
+Sophos: harmless
+Spam404: harmless
+StopForumSpam: harmless
+Sucuri SiteCheck: harmless
+ThreatHive: harmless
+Threatsourcing: harmless
+Trustwave: harmless
+Underworld: undetected
+URLhaus: harmless
+URLQuery: undetected
+Viettel Threat Intelligence: harmless
+VIPRE: undetected
+VX Vault: harmless
+ViriBack: harmless
+Webroot: harmless
+Yandex Safebrowsing: harmless
+ZeroCERT: harmless
+desenmascara.me: harmless
+malwares.com URL checker: harmless
+securolytics: harmless
+Xcitium Verdict Cloud: undetected
+zvelo: undetected
+ZeroFox: undetected",0,84.247.96.0/21,GSL Networks Pty LTD
